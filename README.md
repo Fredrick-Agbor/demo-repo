@@ -1,3 +1,3 @@
 # Sample
 
-Some descrption.
+Some descrption!
